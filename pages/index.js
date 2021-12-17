@@ -21,7 +21,7 @@ export default function Home() {
   }, [])
   return <div>
     <div className='text-black' >
- <div className='text-gray-400 text-yellow-400 text-purple-400 text-green-400 border-green-400 border-yellow-400 border-purple-400 border-gray-400' ></div>
+ <div className='text-gray-400 text-yellow-400 text-blue-400 border-blue-400 text-purple-400 text-green-400 border-green-400 border-yellow-400 border-purple-400 border-gray-400' ></div>
     {data ? <div>
       
       <div className='text-5xl font-bold text-green-500 text-center my-12' > 🚀 🚀 🚀  Fund Movr Stats</div>
