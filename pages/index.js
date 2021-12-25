@@ -39,7 +39,7 @@ export default function Home() {
       <div className='text-3xl text-gray-400 font-bold text-center pb-12' >
          Left For the 🕺  Big Day 
       </div>
-      <div className='flex gap-4 w-full justify-center' >  
+      <div className='flex gap-1 justify-center' >  
        {Object.keys(data['stats']).map(chain => <div className={`border-8 rounded-3xl p-4 w-fit border-${data['stats'][chain]['color']}`}  key={chain}>
         <div className={`font-bold text-3xl pt-8 text-${data['stats'][chain]['color']} text-center`} >{chain}</div>
       

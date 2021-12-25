@@ -461,10 +461,10 @@
   resolved "https://registry.yarnpkg.com/@humanwhocodes/object-schema/-/object-schema-1.2.1.tgz#b520529ec21d8e5945a1851dfd1c32e94e39ff45"
   integrity sha512-ZnQMnLV4e7hDlUvw8H+U8ASL02SS2Gn6+9Ac3wGGLIe7+je2AeAOxPY+izIPJDfFDb7eDjev0Us8MO1iFRN8hA==
 
-"@movr/fund-movr-core@0.0.1-beta.28":
-  version "0.0.1-beta.28"
-  resolved "https://registry.yarnpkg.com/@movr/fund-movr-core/-/fund-movr-core-0.0.1-beta.28.tgz#a3343c0b40cd9134150c19c0d4b9b5f279adf3e6"
-  integrity sha512-lqXdThXnek/cPDervhMH/zNe3kI9HrgvtAlh35JiTm9KuOuli7dkTYWRufC6dSlJlfGFP1M/hrqyZ8w+Am85yA==
+"@movr/fund-movr-core@0.0.1-beta.33":
+  version "0.0.1-beta.33"
+  resolved "https://registry.yarnpkg.com/@movr/fund-movr-core/-/fund-movr-core-0.0.1-beta.33.tgz#b1c8d19df89857fbf0150ea008695a1eed7ca5f8"
+  integrity sha512-jaOGIHWDD5gD0v0BZpWN3rBS/kZ6Cvx00nWGzhRV9P5rFv69aoUQuXYXb9iO1spzSQNe5Bec5Dr/TJutrm0+yw==
 
 "@napi-rs/triples@1.0.3":
   version "1.0.3"
