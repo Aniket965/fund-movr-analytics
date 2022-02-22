@@ -32,8 +32,12 @@ export default function Home() {
       <div className='text-3xl text-gray-400 font-bold text-center pb-12' >
          Total Traded Volume
       </div>
+
+      <div className='text-8xl font-bold text-center pt-12' >
+        🧍🏻‍♂️🧍🏻‍♀️{data.totalUsers}
+      </div>
       <div className='text-3xl text-gray-400 font-bold text-center pb-12' >
-         Time of 🕺  Big Day 
+         Total Users
       </div>
       <div className='flex gap-1 justify-center' >  
        {Object.keys(data['stats']).map(chain => <div className={`border-8 rounded-3xl p-4 w-fit border-${data['stats'][chain]['color']}`}  key={chain}>
